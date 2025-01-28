@@ -1,1 +1,1 @@
-# GYM-Management-System01
+# Hate Speech Detection Using Python. 
